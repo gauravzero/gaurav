@@ -1,0 +1,64 @@
+ 
+GAURAV  MEHTA  
+Software Engineer II |C++ & Edge AI Specialist  |US Citizen  
+   gkmphx@gmail.com            gaurav -mehta1999   
+ 
+Specializing in On -Device AI optimizations and high -scale product integration. Delivered GenAI features for Copilot TV to 6M+ users 
+and embedded inference pipelines at Qualcomm  
+PR O F E S S I O N A L  EX P E R I E N C E  
+MICROSOFT  July’24 – present  
+Software Engineer  II, Microsoft AI  
+Copilot TV  
+• Engineered the cloud -side architecture for Copilot TV, orchestrating capability negotiation and Bing search integration  to deliver 
+context -aware “What to Watch”  recommendations t o 6M+ users  
+• Architected  the hybrid execution environment on Tizen, implementing a public -IP proxy  and local page deployment  to enable Copilot 
+integration on constrained TV hardware  
+• Led technical alignment across 10+ partner squads  (Bing, CMC, Product, Design)  to define the roadmap, deliver  the CES 2024  showcase 
+demo, and successfully scaling the launch to Samsung & LG devices globally  
+On-Device Model Execution  
+• Prototyped a "PhoneRAG" system  on Android, integrating Phi-3 (3.8B)  and CLIP  embeddings  within a native C++ layer to validate 
+retrieval -augmented generation on Snapdragon ® edge hardware.  
+• Delivered  the inference pipeline  using ONNX Runtime  and Qualcomm QNN , implementing mixed -precision (16b/4b)  quantization , 
+model splitting, and cached graph compilation to minimize initialization latency.  
+• Accelerated token generation throughput  from 0.8 to 2.7 TPS  (NPU) and 11 TPS (Hybrid)  by orchestrating heterogeneous execution, 
+conducting deep performance benchmarking to inform executive leadership  on power/thermal feasibility for future product roadmaps.  
+Tools – C++ (Native), Python, ONNX Runtime, Qualcomm QNN, Android, Tizen, C#, Bing Grounding API  
+QUALCOMM  Jul’21 – July’24  
+Software Engineer, ASE Team  
+Aware Secure Edge (ASE)  
+• Architected a secure IoT Marketplace  for deploying ML pipelines on Snapdragon edge devices, designing the Feature Bundle 
+Deployment  flow with secure key provisioning  to decrypt models at runtime for multimedia use cases.  
+• Delivered  the License Service  (C++/gRPC), integrating with ARM TrustZone (TEE)  to implement a chunked decryption pipeline , 
+hardware -enforced licensing, and secure telemetry , ensuring tamper -proof execution of proprietary IP.  
+• Developed the  Feature Management Service  in Golang , utilizing the Docker Go  package to implement resource -efficient container 
+updates and distroless images. Built the Device Registration  and QAgent  tools to streamline fleet onboarding and ISV publishing 
+workflows.  
+• Led the platform migration  from Linux Embedded to Android, re -architecting native services into Stable AIDL interfaces  to ensure 
+production compatibility with the Android Framework, presenting progress to senior leadership (SVP).  
+Tools – C++ (Native), Golang, Docker, Android (AIDL), ARM TrustZone, gRPC, REST, Redis, SQLite, Yocto, Linux , MQTT  
+  
+
+
+---PAGEBREAK---
+
+ 
+QUALCOMM  Jan’21 – July’21  
+Software Engineering Intern, IOT-ML Team  
+Deploying ML on Edge Devices  
+• Enabled hardware acceleration  on Snapdragon platforms by deploying TensorFlow Lite  (v2.5) delegates to leverage DSP/GPU  compute, 
+significantly improving inference performance.  
+• Pioneered the containerization  of TFLite applications using Docker , establishing the framework for scalable and standardized 
+deployment on Qualcomm edge devices.  
+Tools - C++, Python, TFLite, Docker, CMake, DSP/GPU Shared Libraries , Python, dlib, OpenCV  
+ED U C A T I O N  & CR E D E N T I A L S  
+M.S. Artificial Intelligence | University of Texas at Austin (Expected 202 6) 
+• Pursuing part -time alongside full -time employment  
+ 
+B.E. Computer Science | B ITS Pilani Hyderabad Campus (2021)  
+AW A R D S  
+• Qualcomm Distinguished Solution  (2023 ): Invention  accepted  as a Trade Secret and published as a  QDS  
+• Finalist , Qualcomm Machine Learning Summit  (2022 ): Selected to present “Secure Deployment of IP to the Edge ” at 
+the Qualcomm ML Summit '22  
+• Runner Up, Qualcomm Tech Day  (2022 ): Secured 2nd place company -wide for the presentation on "Deployment of 
+Machine Learning to Edge Devices"  
+• Qualcomm Rising Star Award  (2022 ): Honored as a Rising Star among new joiners for significant contributions.  
